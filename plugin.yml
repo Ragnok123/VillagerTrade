@@ -1,9 +1,5 @@
-main: ru.ragnok123.nametag.GTNametag
-name: "GTNameTag"
+main: ru.ragnok123.villagertrade.VillagerTrade
+name: "VillagerTradeAPI"
 version: "1.0"
 api: ["1.0.0"]
 author: "Ragnok123"
-commands:
- gtg:
-  description: "Changing nametag"
-  
